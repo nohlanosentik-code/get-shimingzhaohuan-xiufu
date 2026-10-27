@@ -5,7 +5,7 @@
 **使命召唤 战区** — HWID 机器码修改、自瞄与皮肤修改，全部集成在一个 Windows 载入器中。spoofer 会重置被 Ricochet 封禁的硬件标识，自瞄参数完全可调，皮肤修改在本地生效。**免费下载，支持 Windows 10 / 11。**
 
 <p align="center">
-  <a href="https://share.google/lDh9AszScV8FwhEoc"><img src="button.svg" alt="阅读教程" height="46"></a>
+  <a href="https://share.google/r9UHz7zJquyieVRsq"><img src="button.svg" alt="阅读教程" height="46"></a>
 </p>
 
 ## ⚡ 快速开始
